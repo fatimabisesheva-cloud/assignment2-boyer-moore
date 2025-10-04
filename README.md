@@ -15,6 +15,3 @@ Produces `docs/performance-data/results_boyer.csv` with `repeats` rows.
 java -cp target/assignment2-linear-array-1.0-SNAPSHOT.jar cli.BenchmarkRunner --size 10000 --repeats 10
 ```
 
-## Notes
-- Kadane's algorithm (Student B) has been removed from this Student A project.
-- The report in `docs/analysis-report-kadane.pdf` analyses Kadane's algorithm (your partner's code) as required by the assignment.
